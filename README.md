@@ -1,1 +1,1 @@
-The X-O Game project is a web-based implementation of the classic Tic-Tac-Toe game, built using HTML, CSS, and JavaScript. It provides an interactive and enjoyable gaming experience for users of all ages.
+The Subway Game project is an exciting web-based game inspired by the popular subway surfer genre, developed using HTML,CSS, and JavaScript. It offers players an exhilarating experience of running through a subway while overcoming obstacles and collecting rewards.
